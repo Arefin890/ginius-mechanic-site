@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "ENGINE DIAGONESTIC",
+    "price": "2000",
+    "time": 2,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Libero ex blanditiis cumque esse perspiciatis autem,",
+    "img": "https://i.ibb.co/CzC3fFs/service6.jpg"
+  },
+  {
+    "id": 2,
+    "name": "WHEEL ALIGNMENT",
+    "price": "100",
+    "time": 2,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Libero ex blanditiis cumque esse perspiciatis autem,",
+    "img": "https://i.ibb.co/wRW0kHf/service1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "OIL CHANGING",
+    "price": "150",
+    "time": 2,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Libero ex blanditiis cumque esse perspiciatis autem,",
+    "img": "https://i.ibb.co/CzC3fFs/service6.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Replace Tire",
+    "price": "2000",
+    "time": 2,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Libero ex blanditiis cumque esse perspiciatis autem,",
+    "img": "https://i.ibb.co/CzC3fFs/service6.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Replace Tire",
+    "price": "2000",
+    "time": 2,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Libero ex blanditiis cumque esse perspiciatis autem,",
+    "img": "https://i.ibb.co/wRW0kHf/service1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Replace Tire",
+    "price": "2000",
+    "time": 2,
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Libero ex blanditiis cumque esse perspiciatis autem,",
+    "img": "https://i.ibb.co/CzC3fFs/service6.jpg"
+  }
+]
